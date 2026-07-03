@@ -12,6 +12,12 @@
   <a href="mailto:sarvar55mszde@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/sarvar-musazade-603445212"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://sarvardev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://medium.com/@sarvar55mszde">
+  <img src="https://img.shields.io/badge/Medium-Technical_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/the.code.architect/">
+  <img src="https://img.shields.io/badge/Instagram-@the.code.architect-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 
 </div>
