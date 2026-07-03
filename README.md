@@ -33,11 +33,11 @@ Backend Engineer from Azerbaijan focused on designing reliable, scalable, produc
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=java,ts,go,cs,js,sql" />
+<img src="https://skillicons.dev/icons?i=java,ts,js,sql" />
 
 **Frameworks**
 <br/>
-<img src="https://skillicons.dev/icons?i=spring,nextjs,nodejs,react" />
+<img src="https://skillicons.dev/icons?i=spring,nextjs,nodejs" />
 
 **Databases**
 <br/>
@@ -45,7 +45,7 @@ Backend Engineer from Azerbaijan focused on designing reliable, scalable, produc
 
 **Infrastructure &amp; Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,maven,kafka" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,maven,kafka,junit,mockito,aws" />
 
 <br/>
 
