@@ -9,7 +9,8 @@
 </p>
 
 <p align="center">
- <a href="mailto:sarvar55mszde@gmail.com">
+
+<a href="mailto:sarvar55mszde@gmail.com">
 <img src="https://img.shields.io/badge/Email-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -20,12 +21,15 @@
 <a href="https://sarvardev.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-karar.dev-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-  <a href="https://medium.com/@sarvar55mszde">
-    <img src="https://img.shields.io/badge/-12100E?style=flat&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/the.code.architect/">
-    <img src="https://img.shields.io/badge/-E4405F?style=flat&logo=instagram&logoColor=white" />
-  </a>
+
+<a href="https://medium.com/@sarvar55mszde">
+<img src="https://img.shields.io/badge/Medium-Technical_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/the.code.architect/">
+<img src="https://img.shields.io/badge/Instagram-@the.code.architect-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 </p>
 
 </div>
