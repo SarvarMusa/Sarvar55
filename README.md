@@ -1,14 +1,30 @@
-<div id="top"></div>
-
 <div align="center">
 
-<img width="100%" src="assets/header.png" alt="Header"/>
+<img src="assets/header.png" alt="Header" width="100%" />
 
-<h1>Hi 👋 I'm Sarvar Musazade</h1>
+# Hi 👋 I'm Sarvar Musazade
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=4ADE80&center=true&vCenter=true&width=650&lines=Backend+Engineer;Java+%7C+Spring+Boot+Developer;Distributed+Systems+Enthusiast;Always+Learning+How+Things+Work+Internally" />
+### Backend Engineer passionate about building scalable Java applications, distributed systems, and production-ready backend solutions.
+
+<p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22C55E&center=true&vCenter=true&width=700&lines=Backend+Engineer;Java+%7C+Spring+Boot+Developer;Distributed+Systems+Enthusiast;Always+Learning+How+Things+Work+Internally" />
+</p>
+
+<p>
+
+<a href="mailto:sarvar55mszde@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
+
+<a href="https://linkedin.com/in/sarvar-musazade-603445212">
+<img src="https://img.shields.io/badge/LinkedIn-Sarvar%20Musazade-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://sarvardev.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-karar.dev-success?style=for-the-badge">
+</a>
+
+</p>
 
 </div>
 
@@ -16,36 +32,20 @@
 
 # 👨🏻‍💻 About Me
 
-I'm a Backend Engineer passionate about designing scalable, reliable and production-ready backend systems.
+I'm a Backend Engineer from Azerbaijan who enjoys designing reliable, scalable, and production-ready backend systems.
 
-Currently I'm focused on understanding how modern backend systems work internally—from Java concurrency and JVM internals to distributed systems and database performance.
+My primary focus is Java and the Spring ecosystem, while continuously exploring Java concurrency, JVM internals, distributed systems, and modern backend architecture.
 
-- 💻 Backend Engineer
-- ☕ Java & Spring Boot
-- 🧠 Learning JVM Internals & Concurrency
-- ⚡ Building scalable backend applications
-- 📚 Always exploring distributed systems
-- 🌍 Based in Baku, Azerbaijan
-
----
-
-# 🚀 Current Focus
-
-```text
-✓ Java Concurrency
-✓ JVM Internals
-✓ Distributed Systems
-✓ PostgreSQL Performance
-✓ Kafka
-✓ Redis
-✓ Docker & Kubernetes
-✓ System Design
-✓ OpenTelemetry
-```
+- ☕ Backend Engineering with Java & Spring Boot
+- 🚀 Building production-ready REST APIs
+- 🧠 Exploring JVM Internals & Java Concurrency
+- ⚡ Learning Distributed Systems & Event-Driven Architecture
+- 🗄️ Passionate about PostgreSQL performance and Redis
+- 📚 Always learning something new
 
 ---
 
-# 💼 Tech Stack
+# 💻 Tech Stack
 
 ## Languages
 
@@ -53,11 +53,10 @@ Currently I'm focused on understanding how modern backend systems work internall
 <img src="https://skillicons.dev/icons?i=java,ts,go,cs,js,sql"/>
 </p>
 
-## Backend
+## Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs"/>
-<img width="48" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg"/>
+<img src="https://skillicons.dev/icons?i=spring,nextjs,nodejs,react"/>
 </p>
 
 ## Databases
@@ -66,54 +65,118 @@ Currently I'm focused on understanding how modern backend systems work internall
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis"/>
 </p>
 
-## DevOps & Tools
+## Tools & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux"/>
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,linux,maven"/>
+
+<img height="48" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg"/>
+
+<img height="48" src="https://www.vectorlogo.zone/logos/opentelemetry/opentelemetry-icon.svg"/>
+
+<img height="48" src="https://cdn.worldvectorlogo.com/logos/swagger.svg"/>
+
 </p>
 
 ---
 
-# 📦 Featured Projects
+# 🚀 Featured Projects
+
+## 🌐 karar.dev
+
+### Community-driven platform for sharing life decisions and learning from other people's experiences.
+
+**Think of it as "Stack Overflow for life decisions."**
+
+### Features
+
+- 📝 Share important life decisions
+- 💭 Explain your reasoning
+- 😔 Track regret level
+- 🗳️ Community voting
+- 💬 Discussions & comments
+- 🏷️ Search with tags
+- 🔐 JWT Authentication
+- 📧 Email Verification
+- 📁 Image Uploads with MinIO
+
+### Stack
+
+**Backend**
+
+Java • Spring Boot • Spring Security • Spring Data JPA
+
+**Frontend**
+
+Next.js • React • TypeScript • Tailwind CSS • Zustand • Framer Motion
+
+**Infrastructure**
+
+PostgreSQL • Redis • Kafka • Docker • Flyway • OpenTelemetry • Swagger • MinIO
+
+🔗 Repository
+
+https://github.com/SarvarMusa/karar.dev
+
+🌍 Live Demo
+
+https://sarvardev.vercel.app
+
+**Why it matters**
+
+A production-grade full-stack application showcasing authentication, caching, event-driven messaging, observability, Dockerized development, and clean backend architecture.
+
+---
 
 ## 🍽️ PalatePoet
 
-AI-powered Recipe & Meal Planning API
+### AI-powered Recipe & Meal Planning API
 
 **Stack**
 
-Java • Spring Boot • PostgreSQL • Redis • MyBatis • Liquibase • JWT • Swagger
+Java • Spring Boot • PostgreSQL • Redis • MyBatis • Liquibase • Swagger
 
 **Highlights**
 
-- GPT Integration
+- GPT-powered recipe generation
+- Redis caching
 - JWT Authentication
-- Redis Cache
-- Production-ready REST API
+- Database versioning
+- RESTful API
+
+**Why it matters**
+
+Demonstrates AI integration, SQL optimization, secure authentication, and production-ready API design.
 
 ---
 
 ## ✍️ Medium Clone
 
-Full-stack blogging platform.
+### Full-stack blogging platform
 
 **Stack**
 
-Java • Spring Boot • Redis • MySQL • Docker • Next.js
+Spring Boot • Spring Security • Redis • MySQL • Docker • Next.js
 
 **Highlights**
 
-- Spring Security
+- JWT Authentication
 - Refresh Tokens
 - Redis Token Blacklist
-- Cloudinary
+- Cloudinary Integration
+- Docker Compose
 - AOP Logging
+
+**Why it matters**
+
+Shows secure authentication, caching, clean architecture, and full-stack development.
 
 ---
 
 ## 🤖 GitDoctor
 
-AI-powered Git CLI assistant.
+### AI-powered Git CLI Assistant
 
 **Stack**
 
@@ -121,69 +184,34 @@ TypeScript • LangChain • Google Gemini
 
 **Highlights**
 
-- AI Commit Messages
-- Git Automation
-- CLI Tool
+- AI-generated commit messages
+- Git workflow automation
+- CLI application
+
+**Why it matters**
+
+Demonstrates practical AI integration and developer tooling.
 
 ---
 
-# ☕ About Me in Java
+# 🎯 Current Focus
 
-```java
-import java.util.List;
-import java.util.Map;
+I'm currently learning and building projects around:
 
-public class Sarvar {
-
-    private final String name = "Sarvar Musazade";
-    private final String role = "Backend Engineer";
-
-    private final List<String> currentFocus = List.of(
-            "Java",
-            "Spring Boot",
-            "Distributed Systems",
-            "Java Concurrency",
-            "JVM Internals",
-            "PostgreSQL",
-            "Redis",
-            "Kafka",
-            "System Design",
-            "OpenTelemetry"
-    );
-
-    private final List<String> currentlyBuilding = List.of(
-            "Production-grade Backend APIs",
-            "Distributed Applications",
-            "Developer Tools",
-            "Open Source Projects"
-    );
-
-    public Map<String, Object> profile() {
-
-        return Map.of(
-                "name", name,
-                "role", role,
-                "experience", "Backend Engineering",
-                "passion", "Understanding how software works internally",
-                "focus", currentFocus,
-                "building", currentlyBuilding,
-                "funFact", "I enjoy learning from JVM internals all the way to distributed systems."
-        );
-    }
-
-    public static void main(String[] args) {
-
-        Sarvar me = new Sarvar();
-
-        System.out.println(me.profile());
-    }
-
-}
-```
+- ⚙️ Distributed Systems
+- ☕ Java Concurrency
+- 🧠 JVM Internals
+- 🗄️ Advanced PostgreSQL
+- 📡 Apache Kafka
+- 🚀 Redis
+- 🔭 OpenTelemetry
+- 🏗️ System Design
+- 🐳 Kubernetes
+- 🌱 Production-grade Spring Boot applications
 
 ---
 
-# 📈 GitHub Statistics
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -195,45 +223,37 @@ public class Sarvar {
 
 ---
 
-# 🎯 2026 Goals
+# 📈 2026 Goals
 
 - ✅ Master Java Concurrency
 - ✅ Deep dive into JVM Internals
-- ✅ Build Distributed Systems
-- ⏳ Contribute to Open Source
-- ⏳ Learn Kubernetes in depth
-- ⏳ Build a production-scale backend project
+- 🚀 Build Distributed Systems
+- 🌍 Contribute to Open Source
+- ☸️ Master Kubernetes
+- 📚 Share technical articles regularly
 
 ---
 
-# 📫 Connect with Me
+# 📫 Contact
 
-<p align="center">
+📧 **Email**
 
-<a href="mailto:sarvar55mszde@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
+**sarvar55mszde@gmail.com**
 
-<a href="https://linkedin.com/in/sarvar-musazade-603445212">
-<img src="https://img.shields.io/badge/LinkedIn-Sarvar%20Musazade-blue?style=for-the-badge&logo=linkedin"/>
-</a>
+💼 **LinkedIn**
 
-<a href="https://github.com/Sarvar55">
-<img src="https://img.shields.io/badge/GitHub-Sarvar55-black?style=for-the-badge&logo=github"/>
-</a>
+https://linkedin.com/in/sarvar-musazade-603445212
 
-<a href="https://sarvardev.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-Website-success?style=for-the-badge"/>
-</a>
+🌍 **Portfolio**
 
-</p>
+https://sarvardev.vercel.app
 
 ---
 
 <div align="center">
 
-### Thanks for visiting! ⭐
+### Thanks for visiting my profile! ⭐
 
-*"First, make it work. Then make it clean. Finally, make it scalable."*
+*"Building software is not just about making it work—it's about making it scalable, maintainable, and enjoyable to improve."*
 
 </div>
