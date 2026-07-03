@@ -140,14 +140,6 @@ https://github.com/SarvarMusa/GitDoctor
 ### 💡 Why it matters
 
 Demonstrates AI-powered developer tooling and command-line application development.
-## GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SarvarMusa&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarvarMusa&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" />
-</div>
-
-<br/>
 
  ## Current Focus
 
